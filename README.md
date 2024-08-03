@@ -1,6 +1,6 @@
 # fastify-response-caching
 
-![Node.js CI](https://github.com/codeaholicguy/fastify-response-caching/workflows/Node.js%20CI/badge.svg)
+![Node.js CI](https://github.com/nuhoangcodon99/fastify-response-caching/workflows/Node.js%20CI/badge.svg)
 
 *fastify-response-caching* is a plugin for the [Fastify](http://fastify.io/) framework 
 that provides mechanisms for caching response to reduce the server workload.
