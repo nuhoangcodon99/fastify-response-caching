@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codeaholicguy/fastify-response-caching.git"
+    "url": "git+https://github.com/nuhoangcdon99/fastify-response-caching.git"
   },
   "keywords": [
     "fastify",
@@ -28,12 +28,12 @@
     "caching",
     "cache"
   ],
-  "author": "Hoang Nguyen <hoangnn93@gmail.com>",
+  "author": "Ngoccoder <tranvienvien51@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeaholicguy/fastify-response-caching/issues"
+    "url": "https://github.com/nuhoangcodon99/fastify-response-caching/issues"
   },
-  "homepage": "https://github.com/codeaholicguy/fastify-response-caching#readme",
+  "homepage": "https://github.com/nuhoangcodon99/fastify-response-caching#readme",
   "dependencies": {
     "fastify-plugin": "^2.3.4",
     "keyv": "^4.0.2"
